@@ -1,0 +1,13 @@
+/* Custom CSS for Artist Dashboard */
+.sidebar .sidebar-content {
+    background-color: #1E1E1E;
+}
+.metric-card {
+    border: 1px solid #3D3D3D;
+    border-radius: 5px;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+.stButton>button {
+    width: 100%;
+}
