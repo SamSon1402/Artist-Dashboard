@@ -2,7 +2,10 @@
 
 A comprehensive analytics dashboard for musicians and artists to track streaming performance, audience demographics, content metrics, and revenue data.
 
-![Artist Dashboard Overview](https://via.placeholder.com/800x400?text=Artist+Dashboard+Overview)
+![Image](https://github.com/user-attachments/assets/fd273ef0-844f-45ab-a3eb-696c554e6708)
+![Image](https://github.com/user-attachments/assets/88f42fb0-55e4-4c07-8424-006507ae440c)
+![Image](https://github.com/user-attachments/assets/b076fad1-f11b-4689-8b99-9a04856544ca)
+![Image](https://github.com/user-attachments/assets/af1696b2-8daf-4fa6-a047-7c1ec743f94c)
 
 ## Features
 
